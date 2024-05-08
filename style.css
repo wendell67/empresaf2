@@ -1,0 +1,54 @@
+css
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0
+}
+
+header {
+    background-color: #333
+    color: white
+    text-align: center;
+    padding: 10px;
+}
+
+.produtos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+width: 100px;
+  height: 200;
+  width: 100;
+  
+  
+}
+
+.produto {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+body{
+  background-color: darkred;
+}
+
+img.logo{
+  height:300px;
+  width:300px;
+}
